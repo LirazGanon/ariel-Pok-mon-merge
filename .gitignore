@@ -6,3 +6,5 @@ dist-ssr
 .vscode/*
 !.vscode/extensions.json
 public/assets/pokemon/*.png
+
+*.tsbuildinfo
